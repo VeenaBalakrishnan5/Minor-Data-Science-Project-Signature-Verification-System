@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![Deep Learning](https://img.shields.io/badge/Model-CNN-red.svg)](https://keras.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##  Project Overview
 This **Minor Data Science Project** implements an automated system for signature authentication. By utilizing **Convolutional Neural Networks (CNN)**, the model is trained to distinguish between genuine and forged signatures. This system addresses the need for secure, automated verification in financial and legal sectors, where human error in manual verification can be costly.
