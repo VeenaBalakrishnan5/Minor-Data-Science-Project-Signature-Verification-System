@@ -1,7 +1,6 @@
 ##  Minor Project: Signature Verification System
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![Deep Learning](https://img.shields.io/badge/Model-CNN-red.svg)](https://keras.io/)
 
 ##  Project Overview
